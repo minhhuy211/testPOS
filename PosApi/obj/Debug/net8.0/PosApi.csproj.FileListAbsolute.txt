@@ -94,3 +94,4 @@ D:\test\PosApi\obj\Debug\net8.0\refint\PosApi.dll
 D:\test\PosApi\obj\Debug\net8.0\PosApi.pdb
 D:\test\PosApi\obj\Debug\net8.0\PosApi.genruntimeconfig.cache
 D:\test\PosApi\obj\Debug\net8.0\ref\PosApi.dll
+D:\test\PosApi\obj\Debug\net8.0\PosApi.sourcelink.json
