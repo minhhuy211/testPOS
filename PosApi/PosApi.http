@@ -1,0 +1,38 @@
+@PosApi_HostAddress = http://localhost:5246
+
+### 1. Lấy danh sách sản phẩm
+GET {{PosApi_HostAddress}}/api/products
+Accept: application/json
+
+###
+
+### 2. Tạo đơn hàng mới
+POST {{PosApi_HostAddress}}/api/orders
+Content-Type: application/json
+
+{
+  "items": [
+    {
+      "productId": 1,
+      "quantity": 2
+    },
+    {
+      "productId": 4,
+      "quantity": 1
+    }
+  ]
+}
+
+###
+
+### 3. Lấy danh sách đơn hàng
+GET {{PosApi_HostAddress}}/api/orders
+Accept: application/json
+
+###
+
+### 4. Lấy thông tin đơn hàng theo ID
+GET {{PosApi_HostAddress}}/api/orders/1
+Accept: application/json
+
+###

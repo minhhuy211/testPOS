@@ -1,0 +1,96 @@
+D:\test\back\PosApi\bin\Debug\net8.0\appsettings.Development.json
+D:\test\back\PosApi\bin\Debug\net8.0\appsettings.json
+D:\test\back\PosApi\bin\Debug\net8.0\PosApi.exe
+D:\test\back\PosApi\bin\Debug\net8.0\PosApi.deps.json
+D:\test\back\PosApi\bin\Debug\net8.0\PosApi.runtimeconfig.json
+D:\test\back\PosApi\bin\Debug\net8.0\PosApi.dll
+D:\test\back\PosApi\bin\Debug\net8.0\PosApi.pdb
+D:\test\back\PosApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\test\back\PosApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\test\back\PosApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\test\back\PosApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\test\back\PosApi\obj\Debug\net8.0\PosApi.csproj.AssemblyReference.cache
+D:\test\back\PosApi\obj\Debug\net8.0\PosApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\test\back\PosApi\obj\Debug\net8.0\PosApi.AssemblyInfoInputs.cache
+D:\test\back\PosApi\obj\Debug\net8.0\PosApi.AssemblyInfo.cs
+D:\test\back\PosApi\obj\Debug\net8.0\PosApi.csproj.CoreCompileInputs.cache
+D:\test\back\PosApi\obj\Debug\net8.0\PosApi.MvcApplicationPartsAssemblyInfo.cs
+D:\test\back\PosApi\obj\Debug\net8.0\PosApi.MvcApplicationPartsAssemblyInfo.cache
+D:\test\back\PosApi\obj\Debug\net8.0\staticwebassets.build.json
+D:\test\back\PosApi\obj\Debug\net8.0\staticwebassets.development.json
+D:\test\back\PosApi\obj\Debug\net8.0\staticwebassets\msbuild.PosApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\test\back\PosApi\obj\Debug\net8.0\staticwebassets\msbuild.build.PosApi.props
+D:\test\back\PosApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PosApi.props
+D:\test\back\PosApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PosApi.props
+D:\test\back\PosApi\obj\Debug\net8.0\staticwebassets.pack.json
+D:\test\back\PosApi\obj\Debug\net8.0\scopedcss\bundle\PosApi.styles.css
+D:\test\back\PosApi\obj\Debug\net8.0\PosApi.csproj.Up2Date
+D:\test\back\PosApi\obj\Debug\net8.0\PosApi.dll
+D:\test\back\PosApi\obj\Debug\net8.0\refint\PosApi.dll
+D:\test\back\PosApi\obj\Debug\net8.0\PosApi.pdb
+D:\test\back\PosApi\obj\Debug\net8.0\PosApi.genruntimeconfig.cache
+D:\test\back\PosApi\obj\Debug\net8.0\ref\PosApi.dll
+D:\Vscode\New folder\PosApi\bin\Debug\net8.0\appsettings.Development.json
+D:\Vscode\New folder\PosApi\bin\Debug\net8.0\appsettings.json
+D:\Vscode\New folder\PosApi\bin\Debug\net8.0\PosApi.exe
+D:\Vscode\New folder\PosApi\bin\Debug\net8.0\PosApi.deps.json
+D:\Vscode\New folder\PosApi\bin\Debug\net8.0\PosApi.runtimeconfig.json
+D:\Vscode\New folder\PosApi\bin\Debug\net8.0\PosApi.dll
+D:\Vscode\New folder\PosApi\bin\Debug\net8.0\PosApi.pdb
+D:\Vscode\New folder\PosApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Vscode\New folder\PosApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Vscode\New folder\PosApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Vscode\New folder\PosApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Vscode\New folder\PosApi\obj\Debug\net8.0\PosApi.csproj.AssemblyReference.cache
+D:\Vscode\New folder\PosApi\obj\Debug\net8.0\PosApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vscode\New folder\PosApi\obj\Debug\net8.0\PosApi.AssemblyInfoInputs.cache
+D:\Vscode\New folder\PosApi\obj\Debug\net8.0\PosApi.AssemblyInfo.cs
+D:\Vscode\New folder\PosApi\obj\Debug\net8.0\PosApi.csproj.CoreCompileInputs.cache
+D:\Vscode\New folder\PosApi\obj\Debug\net8.0\PosApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Vscode\New folder\PosApi\obj\Debug\net8.0\PosApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Vscode\New folder\PosApi\obj\Debug\net8.0\staticwebassets.build.json
+D:\Vscode\New folder\PosApi\obj\Debug\net8.0\staticwebassets.development.json
+D:\Vscode\New folder\PosApi\obj\Debug\net8.0\staticwebassets\msbuild.PosApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Vscode\New folder\PosApi\obj\Debug\net8.0\staticwebassets\msbuild.build.PosApi.props
+D:\Vscode\New folder\PosApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PosApi.props
+D:\Vscode\New folder\PosApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PosApi.props
+D:\Vscode\New folder\PosApi\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Vscode\New folder\PosApi\obj\Debug\net8.0\scopedcss\bundle\PosApi.styles.css
+D:\Vscode\New folder\PosApi\obj\Debug\net8.0\PosApi.csproj.Up2Date
+D:\Vscode\New folder\PosApi\obj\Debug\net8.0\PosApi.dll
+D:\Vscode\New folder\PosApi\obj\Debug\net8.0\refint\PosApi.dll
+D:\Vscode\New folder\PosApi\obj\Debug\net8.0\PosApi.pdb
+D:\Vscode\New folder\PosApi\obj\Debug\net8.0\PosApi.genruntimeconfig.cache
+D:\Vscode\New folder\PosApi\obj\Debug\net8.0\ref\PosApi.dll
+D:\test\PosApi\bin\Debug\net8.0\appsettings.Development.json
+D:\test\PosApi\bin\Debug\net8.0\appsettings.json
+D:\test\PosApi\bin\Debug\net8.0\PosApi.exe
+D:\test\PosApi\bin\Debug\net8.0\PosApi.deps.json
+D:\test\PosApi\bin\Debug\net8.0\PosApi.runtimeconfig.json
+D:\test\PosApi\bin\Debug\net8.0\PosApi.dll
+D:\test\PosApi\bin\Debug\net8.0\PosApi.pdb
+D:\test\PosApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\test\PosApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\test\PosApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\test\PosApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\test\PosApi\obj\Debug\net8.0\PosApi.csproj.AssemblyReference.cache
+D:\test\PosApi\obj\Debug\net8.0\PosApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\test\PosApi\obj\Debug\net8.0\PosApi.AssemblyInfoInputs.cache
+D:\test\PosApi\obj\Debug\net8.0\PosApi.AssemblyInfo.cs
+D:\test\PosApi\obj\Debug\net8.0\PosApi.csproj.CoreCompileInputs.cache
+D:\test\PosApi\obj\Debug\net8.0\PosApi.MvcApplicationPartsAssemblyInfo.cs
+D:\test\PosApi\obj\Debug\net8.0\PosApi.MvcApplicationPartsAssemblyInfo.cache
+D:\test\PosApi\obj\Debug\net8.0\staticwebassets.build.json
+D:\test\PosApi\obj\Debug\net8.0\staticwebassets.development.json
+D:\test\PosApi\obj\Debug\net8.0\staticwebassets\msbuild.PosApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\test\PosApi\obj\Debug\net8.0\staticwebassets\msbuild.build.PosApi.props
+D:\test\PosApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PosApi.props
+D:\test\PosApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PosApi.props
+D:\test\PosApi\obj\Debug\net8.0\staticwebassets.pack.json
+D:\test\PosApi\obj\Debug\net8.0\scopedcss\bundle\PosApi.styles.css
+D:\test\PosApi\obj\Debug\net8.0\PosApi.csproj.Up2Date
+D:\test\PosApi\obj\Debug\net8.0\PosApi.dll
+D:\test\PosApi\obj\Debug\net8.0\refint\PosApi.dll
+D:\test\PosApi\obj\Debug\net8.0\PosApi.pdb
+D:\test\PosApi\obj\Debug\net8.0\PosApi.genruntimeconfig.cache
+D:\test\PosApi\obj\Debug\net8.0\ref\PosApi.dll

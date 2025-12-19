@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "0998ZuAdFPTiFg8UkqMoL4G6eu8ZDHVQi7mTCVhxJ3E=",
+  "Source": "PosApi",
+  "BasePath": "_content/PosApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
